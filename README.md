@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+:computer: Computer Science Student at [RWTH Aachen](https://www.rwth-aachen.de)
+
 <!--
 **martin3398/martin3398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
