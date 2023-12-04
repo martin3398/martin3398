@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-:computer: Computer Science Student at [RWTH Aachen](https://www.rwth-aachen.de)
+🏫 Computer Science Student at [RWTH Aachen](https://www.rwth-aachen.de) and [Seoul National University](https://en.snu.ac.kr/).
+💻 Working at [Check24 Mobilfunk](https://handytarife.check24.de/).
 
 <!--
 **martin3398/martin3398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
