@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏫 Computer Science Student at [RWTH Aachen](https://www.rwth-aachen.de) and [Seoul National University](https://en.snu.ac.kr/).\
+🏫 Computer Science Student at [RWTH Aachen](https://www.rwth-aachen.de), [University of Edinburgh](https://www.ed.ac.uk/) and [Seoul National University](https://en.snu.ac.kr/).\
 💻 Working at [Check24 Mobilfunk](https://handytarife.check24.de/).
 
 <!--
